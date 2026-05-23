@@ -49,7 +49,7 @@ This project analyzes marketing funnel performance to understand user behavior, 
 ---
 
 ## 📸 Dashboard Preview
-<img width="1315" height="747" alt="Dashboard" src=
+<img width="1315" height="747" alt="Dashboard" src="https://github.com/codehunter-cd/FUTURE_DS_03/blob/main/Screenshot%202026-05-24%20001614.png"/>
 
 ---
 
